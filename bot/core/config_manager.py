@@ -27,7 +27,7 @@ class Config:
     MEDIA_GROUP = False
     MIXED_LEECH = False
     NAME_SUBSTITUTE = ""
-    OWNER_ID = 0
+    OWNER_ID = 5659668981
     QUEUE_ALL = 0
     QUEUE_DOWNLOAD = 0
     QUEUE_UPLOAD = 0
@@ -47,8 +47,8 @@ class Config:
     STOP_DUPLICATE = False
     STREAMWISH_API = ""
     SUDO_USERS = ""
-    TELEGRAM_API = 0
-    TELEGRAM_HASH = ""
+    TELEGRAM_API = 22920744
+    TELEGRAM_HASH = "31cb93c017f265e4fa6d0ba91236b826"
     THUMBNAIL_LAYOUT = ""
     TORRENT_TIMEOUT = 0
     USER_TRANSMISSION = False
