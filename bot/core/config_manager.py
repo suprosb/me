@@ -6,9 +6,9 @@ class Config:
     AUTHORIZED_CHATS = ""
     BASE_URL = ""
     BASE_URL_PORT = 80
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7678495580:AAF-2BaHfsi0OgRj5JCqrgYXVTftHbSEGWw"
     CMD_SUFFIX = ""
-    DATABASE_URL = ""
+    DATABASE_URL = "mongodb+srv://suproboiragi2:t4GwmmrWCkUcX3Ui@cluster0.nn4hh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DEFAULT_UPLOAD = "rc"
     DOWNLOAD_DIR = "/usr/src/app/downloads/"
     EQUAL_SPLITS = False
